@@ -2,10 +2,15 @@
 
 ## About Me
 
+
+
+
 Currently pursuing CS & AI MS at Boston University
 Software Engineer at Fidelity Investments
 Focused on projects to enable things to be done easier and to enable upskilling
 Exploring Machine Learning and complex backend systems
+
+
 
 Project interests roadmap:
 - Map visualization technology
