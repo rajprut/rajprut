@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey Everyone
 
 ## About Me
 
