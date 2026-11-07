@@ -1,4 +1,4 @@
-## Hey Everyone
+## Hey Everyone :sunrise_over_mountains:
 
 ## About Me
 
