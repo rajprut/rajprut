@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# About Me
+## About Me
 Currently pursuing MS at Boston University
 Software Engineer at Fidelity Investments
 Focused on projects to enable things to be done easier and to enable upskilling
