@@ -7,6 +7,9 @@
 - Focused on projects to enable things to be done easier and to enable upskilling
 - Exploring Machine Learning and complex backend systems
 
+[![Top Langs](https://vercel.app)](https://github.com)
+
+
 ## Project interests roadmap:
 - Map visualization technology
 - Model tuning for personalized news content
