@@ -16,7 +16,9 @@
 
 
 Goal is to become a developer that is proud to have contributed to a bunch of cool projects and keep working on cool stuff that interests me.
+## Repo Navigation
 
+A lot of the publicly available work that can be seen come from past hackathons and course work. They can be found the repositories tab. A lot of my personal projects I have kept private but contact me at my email and I am sure to get back to you. 
 
 ## Commonly used Tools:
 
